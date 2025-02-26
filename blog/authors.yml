@@ -6,6 +6,7 @@ Administrator:
 yamagami2211:
   name: yamagami2211
   title: yamagami2211
+  page: true
   url: https://yama2211.jp/
   image_url: https://github.com/yamagami2211.png
   socials:

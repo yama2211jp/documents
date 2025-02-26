@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/yama2211jp/docusaurus',
+            href: 'https://github.com/yama2211jp/documents/',
             label: 'GitHub',
             position: 'right',
           },
@@ -126,7 +126,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/yama2211jp/docusaurus',
+                href: 'https://github.com/yama2211jp/documents/',
               },
             ],
           },
