@@ -1,12 +1,12 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors: [slorber, yangshun]
-tags: [hola, docusaurus]
+slug: Blog
+title: Blog
+authors: [Administrator, yamagami2211]
+tags: [Blog]
 ---
 
-Lorem ipsum dolor sit amet...
+未分類
 
 <!-- truncate -->
 
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+テンプレ保管用。
