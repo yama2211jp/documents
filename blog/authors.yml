@@ -2,6 +2,7 @@ Administrator:
   name: Administrator
   title: 管理人
   page: true
+  image_url: https://github.com/yama2211jp.png
 
 yamagami2211:
   name: yamagami2211
