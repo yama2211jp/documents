@@ -11,16 +11,15 @@ NTP Pool Projectに参加する予定はありません。
 
 # 直近のお知らせ
 
-サーバーのリプレースと冗長化を行う予定です。  
-サーバー作業を行う関係上、ダウンタイムが発生する可能性があります。  
-[作業進捗などはredmine](https://redmine.yama2211.jp/issues/5)を更新します。
+特にありません。  
+何かあれば[Redmine](https://redmine.yama2211.jp/projects/service/issues)を更新します。
 
 ## サーバスペック
 
 | # | # |
 |:----:|:----:|
-| OS | Ubuntu 22.04.5 LTS |
-| CPU | Intel Xeon Processor (Icelake), 3 コア |
+| OS | Debian Linux 12 |
+| CPU | Intel Xeon Processor (Icelake), 2 コア |
 | RAM | 2GB |
 | Location | ConoHa/Tokyo |
 
