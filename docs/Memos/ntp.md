@@ -11,17 +11,25 @@ NTP Pool Projectに参加する予定はありません。
 
 # 直近のお知らせ
 
-特にありません。  
+25/08/05:冗長化させました。DNSラウンドロビンですので、どこかしらのサーバの応答を返すはずです。  
 何かあれば[Redmine](https://redmine.yama2211.jp/projects/service/issues)を更新します。
 
 ## サーバスペック
-
+サーバ1
 | # | # |
 |:----:|:----:|
 | OS | Debian Linux 12 |
 | CPU | Intel Xeon Processor (Icelake), 2 コア |
 | RAM | 2GB |
 | Location | ConoHa/Tokyo |
+
+サーバ2
+| # | # |
+|:----:|:----:|
+| OS | Debian Linux 12 |
+| CPU | AMD EPYC-Rome Processor、1コア |
+| RAM | 2GB |
+| Location | vultr/Tokyo |
 
 ## 上位ソースについて
 当NTPでは、以下の上位ソースと同期しています。  
@@ -35,7 +43,6 @@ NTP Pool Projectに参加する予定はありません。
 - 当NTPはあくまで個人が運営する実験的なNTPサーバです。
 - たまに数時間～1日程度サーバが停止するときがあります。
 - サーバへの負荷次第ではサーバを停止することがあります。
-- 冗長構成はありません。
 
 ## 接続ドメイン
 将来的にサーバのリプレイスを行う可能性があるため、ドメインを指定してください。  
